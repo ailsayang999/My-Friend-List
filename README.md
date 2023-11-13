@@ -39,13 +39,13 @@ This application allows users to browse and search community lists along with in
 * Click the heart icon to add a user profile to your favorites.
 
 3. Viewing Favorites
-Access the "My Favorites" page to see a curated list of profiles you've added.
+* Access the "My Favorites" page to see a curated list of profiles you've added.
 
 4. Managing Favorites
-Easily remove profiles from your favorites on the "My Favorites" page. (or you can easily remove it on the home page by clicking on the heart icon again!)
+* Easily remove profiles from your favorites on the "My Favorites" page. (or you can easily remove it on the home page by clicking on the heart icon again!)
 
 5. Search and Pagination
-Utilize the search bar on both home page and favorites pages to find specific profiles.
+* Utilize the search bar on both home page and favorites pages to find specific profiles.
 Navigate through pages effortlessly with the pagination feature.
 
 ---
