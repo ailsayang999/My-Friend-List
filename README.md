@@ -2,6 +2,8 @@
 This application allows users to browse and search community lists along with individual profiles. Users can express their appreciation for a particular list by clicking the heart icon, adding it to their favorites. :smiley:
 <br>
 ↳ [Project Link](https://replit.com/@AilsaYang/MyFriendList-30)
+↳ [Demo Link](https://drive.google.com/file/d/1ex48SQJ5TbKEiocXddzIN49H6vjbpaqI/view?usp=sharing)
+
 
 ---
 
